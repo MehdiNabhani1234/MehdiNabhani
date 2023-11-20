@@ -1,0 +1,53 @@
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    direction: rtl;
+}
+
+
+ul{
+    list-style: none ;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
+.bg-dark{
+    background-color: #333;
+    color: #fff;
+}
+.text-primary{
+    color: orangered;
+}
+
+.bg-light{
+    background-color: #f4f4f4;
+    color: #333;
+}
+.text-orange{
+    /* color: #00c0ff!important; */
+    color: #FFC500!important;
+
+}
+.bg-blue{
+    /* background-color: #00c0ff!important; */
+    background-color: #FFC500!important;
+    color: #fff;
+}
+.btn-blue{
+    /* background-color: #00c0ff; */
+    background-color: #FFC500;
+    padding: 20px 40px;
+      border-radius: 100px;
+      font-weight: 700;
+      color: #354459;
+      font-weight: 900;
+}
+.large-size{
+    font-size: 30px;
+}
+.text-gray{
+    color: #a1a1a1;
+}
